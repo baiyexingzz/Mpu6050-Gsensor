@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    
+   
+
+    <TextView
+        android:id="@+id/textView_gx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView_gx"
+        android:layout_marginTop="17dp"
+        android:text="GX = " />
+
+    <TextView
+        android:id="@+id/textView_gy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView_gx"
+        android:layout_marginTop="52dp"
+        android:text="GY = " />
+
+    <TextView
+        android:id="@+id/textView_gz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView_gy"
+        android:layout_marginTop="54dp"
+        android:text="GZ = " />
+
+    <TextView
+        android:id="@+id/textView_ax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="Ax = " />
+
+    <TextView
+        android:id="@+id/textView_ay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView_ax"
+        android:layout_marginTop="40dp"
+        android:text="Ay = " />
+
+    <TextView
+        android:id="@+id/textView_az"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView_ay"
+        android:layout_marginTop="52dp"
+        android:text="Az = " />
+
+    <TextView
+        android:id="@+id/textView_saveCnt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView_az"
+        android:layout_marginTop="38dp"
+        android:text="saveCnt = 0" />
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensor6050Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="copyright">深圳市佰睿科技开发有限公司</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="mpu6050_sensor_fail">获取传感器失败!</string>
+    <string name="conneting">连接中...</string>
+    <string name="donot_have_mpu6050">该设备没有mpu传感器!</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/com/bytereal/sensor6050demo/Constans.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/bytereal/sensor6050demo/ui/PeripheralActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bytereal/sensor6050demo/ui/mpu6050/Mpu3DActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bytereal/sensor6050demo/util/Arr2BufferUtils.java" charset="GBK" />
+  </component>
+</project>
+
